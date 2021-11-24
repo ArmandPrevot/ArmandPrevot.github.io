@@ -1,4 +1,4 @@
-# ArmandPrevot.github.io
+# Web component audio personnalisé
 
 ## Fonctionnalités de mon web component
 <ul>
